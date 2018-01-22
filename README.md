@@ -1,4 +1,4 @@
-# miner
+# cryptonote miner
 
 xmr krb etn and support all cryptonote coins </br>
 
