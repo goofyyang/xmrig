@@ -1,20 +1,18 @@
 # miner
-xmr krb etn and so on , which coins cryptonote 
+xmr krb etn and so on , which coins cryptonote </br>
 
-the miner with no fee
+the miner with no fee</br>
 
-usage:
+usage:</br></br>
 
-for cpu
-cpu64.exe -o poolminexmr.com:3333 -t 20 -k --donate-level=0
-cpu32.exe -o poolminexmr.com:3333 -t 20 -k --donate-level=0
+for cpu</br>
+cpu64.exe -o poolminexmr.com:3333 -t 20 -k --donate-level=0</br>
+cpu32.exe -o poolminexmr.com:3333 -t 20 -k --donate-level=0</br></br>
+for nvidia</br>
+nvidia.exe -o poolminexmr.com:3333 -k --cuda-max-threads= 32 --donate-level=0</br></br>
+notice: if nvidia cannt run you shoud lower the cuda-max-threads ,the default command is 32 threads</br>
 
-for nvidia
-nvidia.exe -o poolminexmr.com:3333 -k --cuda-max-threads= 32 --donate-level=0 
-
-notice: if nvidia cannt run you shoud lower the cuda-max-threads ,the default command is 32 threads
-
-for amd
+for amd</br>
 amd.exe -o poolminexmr.com:3333 -k --donate-level=0 
 
 
