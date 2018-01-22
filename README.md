@@ -4,6 +4,7 @@ xmr krb etn and so on , which coins cryptonote
 the miner with no fee
 
 usage:
+
 for cpu
 cpu64.exe -o poolminexmr.com:3333 -t 20 -k --donate-level=0
 cpu32.exe -o poolminexmr.com:3333 -t 20 -k --donate-level=0
