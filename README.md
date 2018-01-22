@@ -1,5 +1,6 @@
 # miner
-xmr krb etn and so on , which coins cryptonote </br>
+
+xmr krb etn and support all cryptonote coins </br>
 
 the miner with no fee</br>
 
