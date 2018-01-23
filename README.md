@@ -1,8 +1,7 @@
 # cryptonote miner
 
-xmr krb etn and support all cryptonote coins </br>
-
-the miner with no fee</br>
+Miner support xmr krb etn and all cryptonote algorithm coins. Miner with no fee</br>
+File name end with _ssl.exe means only support connect to ssl port of pool</br>
 
 usage:</br></br>
 
