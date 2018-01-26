@@ -1,4 +1,4 @@
-# xmring miner
+# xmrig miner
 
 Miner support xmr krb etn and all cryptonote algorithm coins. Miner default with no fee</br>
 usage:</br></br>
