@@ -1,8 +1,6 @@
-# cryptonote miner
+# xmring miner
 
-Miner support xmr krb etn and all cryptonote algorithm coins. Miner with no fee</br>
-File name end with _ssl.exe means only support connect to ssl port of pool</br>
-
+Miner support xmr krb etn and all cryptonote algorithm coins. Miner default with no fee</br>
 usage:</br></br>
 
 for cpu</br>
